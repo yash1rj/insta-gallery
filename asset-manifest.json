@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/insta-gallery/static/css/main.7ae6183f.chunk.css",
+    "main.js": "/insta-gallery/static/js/main.9d229413.chunk.js",
+    "main.js.map": "/insta-gallery/static/js/main.9d229413.chunk.js.map",
+    "runtime-main.js": "/insta-gallery/static/js/runtime-main.fa920df1.js",
+    "runtime-main.js.map": "/insta-gallery/static/js/runtime-main.fa920df1.js.map",
+    "static/js/2.81d9cac8.chunk.js": "/insta-gallery/static/js/2.81d9cac8.chunk.js",
+    "static/js/2.81d9cac8.chunk.js.map": "/insta-gallery/static/js/2.81d9cac8.chunk.js.map",
+    "static/js/3.791acb6d.chunk.js": "/insta-gallery/static/js/3.791acb6d.chunk.js",
+    "static/js/3.791acb6d.chunk.js.map": "/insta-gallery/static/js/3.791acb6d.chunk.js.map",
+    "index.html": "/insta-gallery/index.html",
+    "static/css/main.7ae6183f.chunk.css.map": "/insta-gallery/static/css/main.7ae6183f.chunk.css.map",
+    "static/js/2.81d9cac8.chunk.js.LICENSE.txt": "/insta-gallery/static/js/2.81d9cac8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa920df1.js",
+    "static/js/2.81d9cac8.chunk.js",
+    "static/css/main.7ae6183f.chunk.css",
+    "static/js/main.9d229413.chunk.js"
+  ]
+}
